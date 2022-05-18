@@ -1,3 +1,5 @@
+![Alt Text](https://media.giphy.com/media/bdR3ZXoJs6QCUf4gJI/giphy.gif)
+<br>
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
