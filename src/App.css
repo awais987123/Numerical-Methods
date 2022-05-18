@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+h2 {
+  color: white;
+}
+
+.primary{
+  text-align: center;
+}
+
+.card{
+  background: " #ffc3ef ";
+   padding: 30%;
+}
